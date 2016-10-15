@@ -23,6 +23,7 @@ describe("Local tests in Web Platform Test format (to-upstream)", () => {
     "dom/nodes/Node-cloneNode-svg.html",
     "dom/nodes/Node-isEqualNode.html",
     "dom/nodes/Node-mutation-adoptNode.html",
+    "dom/nodes/ParentNode-querySelector-escapes.html",
     "domparsing/DOMParser-dont-upstream.html",
     "domparsing/insert-adjacent.html",
     "encoding/meta/meta-charset-no-quotes.html",
